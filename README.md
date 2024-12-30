@@ -3,8 +3,11 @@ title: Smarter NPC
 emoji: 🤖
 colorFrom: pink
 colorTo: purple
-sdk: static
-pinned: true
+sdk: gradio
+sdk_version: 5.9.1
+license: mit
+pinned: false
+short_description: Code base for learning huggingface spaces
 ---
 
 # learn-hf-spaces
