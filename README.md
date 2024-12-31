@@ -25,3 +25,9 @@ Using streamlit
 sdk: streamlit
 sdk_version: 1.41.0
 ```
+
+Using docker
+```
+sdk: docker
+app_port: 7860
+```
