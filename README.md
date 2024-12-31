@@ -3,8 +3,8 @@ title: HF Spaces
 emoji: 🤖
 colorFrom: pink
 colorTo: purple
-sdk: streamlit
-sdk_version: 1.41.0
+sdk: docker
+app_port: 7860
 suggested_hardware: cpu-basic
 app_file: app_hotdog_st.py
 short_description: Code base for learning huggingface spaces
